@@ -1,0 +1,10 @@
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\bin\Debug\FinalApplication.exe.config
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\bin\Debug\FinalApplication.exe
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\bin\Debug\FinalApplication.pdb
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.csproj.AssemblyReference.cache
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.Form1.resources
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.Properties.Resources.resources
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.csproj.GenerateResource.cache
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.csproj.CoreCompileInputs.cache
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.exe
+C:\Users\monke\source\repos\FinalApplication\FinalApplication\obj\Debug\FinalApplication.pdb
