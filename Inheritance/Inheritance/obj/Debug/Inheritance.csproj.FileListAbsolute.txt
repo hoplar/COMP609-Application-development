@@ -1,0 +1,10 @@
+C:\Users\monke\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\monke\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\monke\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\monke\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
