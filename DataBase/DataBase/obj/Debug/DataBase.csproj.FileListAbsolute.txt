@@ -1,0 +1,10 @@
+C:\Users\monke\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\monke\source\repos\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\monke\source\repos\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\monke\source\repos\DataBase\DataBase\obj\Debug\DataBase.pdb
